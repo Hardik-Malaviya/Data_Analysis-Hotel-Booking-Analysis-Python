@@ -38,9 +38,25 @@ In recent years, both City Hotel and Resort Hotel have experienced high cancella
 3. Competitive Offerings: Avalability of better amenities or services at competing hotels may prompt guests to cancel their reservations.
 4. Booking Channel Influence: Cancellation rates differ based on the booking channel used, such as direct booking through the hotel website, online travel agencies, or offline travel agents.
 
+---
+## Analysis:
+---
+**Number of Entries:** The dataset consists of 119,390 entries.
 
+**Columns:** The dataset contains 36 columns, which represent various attributes related to hotel bookings.
 
+**Data Types:** 
+* A majority of the columns, 16 to be precise, are of the object data type (often representing strings or categorical data).
+* 16 columns are of the int64 data type, representing integer values.
+* 4 columns are of the float64 data type, which typically denotes decimal values.
+  
+**Missing Values:**
+* The column children has 4 missing values.
+* The column country has 488 missing values.
+* The column agent has 16,340 missing values.
+* The column company has a significant number of missing values, totaling 112,593.
 
+---
 
 
 
