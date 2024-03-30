@@ -1,5 +1,53 @@
-# Project-2 : Hotel Booking Analysis with Python
+# Project 2 : Hotel Booking Analysis with Python
 # Hotel Cancellation rate analysis
+
+---
+## Project Steps:
+* Create a Problem Statement
+* Identify the data you want to analyze
+* Explore and Clean the data: inconsistency, inappropriate, missing data, duplicate data (Remove before perform the analysis)
+* Clean raw dataset → then perform analysis → analyze the data to get useful insights.
+---
+
+## Business Problem:
+
+In recent years, both City Hotel and Resort Hotel have experienced high cancellation rates, leading to several consequential issues such as reduced revenue and suboptimal room utilization. Consequently, lowering cancellation rates has become the primary goal for both hotels to enhance revenue generation efficiency. Our report aims to offer comprehensive business advice to address this problem by analyzing hotel booking cancellations and other factors irrelevant to their business and annual revenue generation.
+
+---
+## Assumptions:
+
+1. There were no unusual occurrences between 2015 and 2017 that would greatly affect the data used.
+2. The information is still up-to-date and can be effectively utilized to analyze and develop plans for hotels efficiently.
+3. There are no unexpected negative consequences for the hotels when implementing any recommended techniques.
+4. The hotels are currently not using any of the suggested solutions.
+5. Booking cancellations are the primary factor that has the most substantial impact on revenue generation.
+6. Cancellations lead to unoccupied rooms for the duration of the originally booked period.
+7. Clients can cancel their hotel bookings within the same calendar year they made the reservations.
+---
+## Research Question:
+
+1. What are the factors influencing hotel reservation cancellations?
+2. What strategies can hotels implement to effectively reduce booking cancellations and optimize revenue generation?
+3. In what ways can we support hotels so that they can make more informed and strategic pricing and promotional decisions, ultimately driving revenue growth and maximizing profitability?
+
+---
+## Hypotheses:
+
+1. Price Sensitivity: The price of the reservation affects the likelihood of cancellation, with higher-priced bookings experiencing higher cancellation rates.
+2. Cancellation Policy Impact: The stringency of the hotel's cancellation policy influences cancellation rates, with more lenient policies leading to higher cancellation rates.
+3. Competitive Offerings: Avalability of better amenities or services at competing hotels may prompt guests to cancel their reservations.
+4. Booking Channel Influence: Cancellation rates differ based on the booking channel used, such as direct booking through the hotel website, online travel agencies, or offline travel agents.
+
+
+
+
+
+
+
+
+
+
+
 
 # Hotel Booking Analysis (2015, 2016 and 2017)
 
