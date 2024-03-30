@@ -85,7 +85,7 @@ plt.bar(["Reserved(Not Canceled)","Canceled"],df["is_canceled"].value_counts(), 
 plt.show()
 ```
 ![image](fig1.jpg)
-fig1.jpg
+
 
 #### 5.2 - Reservation Status of Different Hotels
 ```python
@@ -103,6 +103,7 @@ plt.ylabel("Number of Reservations")
 
 plt.show()
 ```
+![image](fig2.jpg)
 ```python
 resort_hotel = df[df["hotel"] == "Resort Hotel"]            #filter 
 resort_hotel["is_canceled"].value_counts(normalize = True)
@@ -131,7 +132,7 @@ plt.yticks(size=15)
 #plt.grid(True)
 plt.show()
 ```
-
+![image](fig3.jpg)
 #### 5.4 - Reservation Status per Month
 ```python
 df['month'] = df["reservation_status_date"].dt.month         #date to month
@@ -149,6 +150,7 @@ plt.ylabel("Number of Reservations")
 plt.grid(True)
 plt.show()
 ```
+![image](fig4.jpg)
 #### 5.5 - ADR per Month
 ```python
 plt.figure(figsize = (25,10))
@@ -164,6 +166,7 @@ plt.ylabel("Average Daily Rate")
 plt.grid(True)
 plt.show()
 ```
+![image](fig5.jpg)
 #### 5.6 - Compare Top 10 Countries with Cancellation Rate
 ```python
 cancelled_data = df[df["is_canceled"]==1]
@@ -173,6 +176,7 @@ plt.title("Compare Top 10 Countries with Cancellation Rate", size=20)
 plt.pie(top_10_country, autopct = "%.2f", labels= top_10_country.index)
 plt.show()
 ```
+![image](fig6.jpg)
 ```python
 df['market_segment'].value_counts()
 ```
@@ -202,7 +206,7 @@ plt.legend()
 plt.show()
 
 ```
-
+![image](fig7.jpg)
 
 
 ```python
@@ -218,5 +222,9 @@ plt.legend()
 
 plt.show()
 ```
+![image](fig8.jpg)
 
 
+
+# Thank You
+## Hardikkumar Malaviya
