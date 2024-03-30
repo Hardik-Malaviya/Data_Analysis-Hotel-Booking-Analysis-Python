@@ -1,5 +1,5 @@
-# Project 2 : Hotel Booking Analysis with Python
-# Hotel Cancellation rate analysis
+# Project 2: Hotel Booking Analysis with Python (To reduce cancellation rate)
+
 
 ---
 ## Project Steps:
@@ -39,8 +39,22 @@ In recent years, both City Hotel and Resort Hotel have experienced high cancella
 4. Booking Channel Influence: Cancellation rates differ based on the booking channel used, such as direct booking through the hotel website, online travel agencies, or offline travel agents.
 
 ---
-## Analysis:
+## Analysis & Findings:
+
+
+
 ---
+## Recommendations:
+
+---
+
+
+
+---
+---
+---
+## Dataset:
+
 **Number of Entries:** The dataset consists of 119,390 entries.
 
 **Columns:** The dataset contains 36 columns, which represent various attributes related to hotel bookings.
@@ -55,14 +69,6 @@ In recent years, both City Hotel and Resort Hotel have experienced high cancella
 * The column country has 488 missing values.
 * The column agent has 16,340 missing values.
 * The column company has a significant number of missing values, totaling 112,593.
-
----
-
-
-
-
-
-
 
 
 # Hotel Booking Analysis (2015, 2016 and 2017)
