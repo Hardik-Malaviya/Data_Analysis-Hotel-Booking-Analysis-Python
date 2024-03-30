@@ -84,8 +84,8 @@ plt.title("Count Reservation Status")
 plt.bar(["Reserved(Not Canceled)","Canceled"],df["is_canceled"].value_counts(), edgecolor = 'k', color='g', width = 0.5)
 plt.show()
 ```
-![image](https://github.com/Hardik-Malaviya/Project-2-Hotel-Booking-Analysis-Python/assets/152107262/08ea79d0-a2c9-4eb9-a567-fe3378ff589e)
-
+![image](fig1.jpg)
+fig1.jpg
 
 #### 5.2 - Reservation Status of Different Hotels
 ```python
