@@ -1,5 +1,9 @@
 # Project 2: Hotel Booking Analysis with Python (To reduce cancellation rate)
 
+## Table of Contents:
+   - [Project Steps](#Project-Steps:)
+   - [Business Problem:](#Business-Problem:)
+
 
 ---
 ## Project Steps:
