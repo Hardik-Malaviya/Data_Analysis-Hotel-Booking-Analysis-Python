@@ -9,7 +9,7 @@
    - [Analysis & Findings](#Analysis-&-Findings)
    - [Recommendations](#Recommendations)
    - [Dataset](#Dataset)
-   - [Hotel Booking Analysis (2015, 2016 and 2017)](#Hotel-Booking-Analysis-(2015,-2016-and-2017))
+   - [Hotel Booking Analysis (2015, 2016 and 2017)](#Hotel-Booking-Analysis)
 
 
 
@@ -83,7 +83,8 @@ In recent years, both City Hotel and Resort Hotel have experienced high cancella
 * The column company has a significant number of missing values, totaling 112,593.
 
 
-# Hotel Booking Analysis (2015, 2016 and 2017)
+# Hotel Booking Analysis
+## Year - 2015, 2016 and 2017
 
 
 ## 1. Importing Libraries
