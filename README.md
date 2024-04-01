@@ -3,6 +3,15 @@
 ## Table of Contents:
    - [Project Steps](#Project-Steps)
    - [Business Problem:](#Business-Problem)
+   - [Assumptions](#Assumptions)
+   - [Research Question](#Research-Question)
+   - [Hypotheses](#Hypotheses)
+   - [Analysis & Findings](#Analysis-&-Findings)
+   - [Recommendations](#Recommendations)
+   - [Dataset](#Dataset)
+   - [Hotel Booking Analysis (2015, 2016 and 2017)](#Hotel-Booking-Analysis (2015, 2016 and 2017))
+   - [](#)
+   - [](#)
 
 
 ---
